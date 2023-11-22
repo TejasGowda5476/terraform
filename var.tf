@@ -1,4 +1,4 @@
 variable "Bucket_Name" {
-  desscription " pls enter the bucket"
+  description " pls enter the bucket"
   type =string
 }
