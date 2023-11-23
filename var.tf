@@ -1,4 +1,4 @@
-variable  {
+variable "variable"  {
   description =" pls enter the bucket"
   type =string
 }
